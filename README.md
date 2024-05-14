@@ -1,5 +1,5 @@
 **Hi there 👋**
-I'm Eren, a passionate developer focused on building innovative decentralized applications leveraging cutting-edge blockchain technologies. My primary interests lie in exploring and developing on platforms like Starknet and the Ethereum Virtual Machine (EVM).
+I'm Eren, a passionate developer focused on building innovative decentralized applications leveraging cutting-edge blockchain technologies. My primary interests lie in exploring and developing on platforms like Starknet and the Ethereum Virtual Machine.
 
 ### What I Do
 - **Decentralized Applications:** Crafting robust, scalable, and user-friendly dApps that leverage the power of blockchain technology to provide transparent and secure solutions.
